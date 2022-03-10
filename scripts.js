@@ -7,7 +7,7 @@ const empUrl = "https://lwl-ems.herokuapp.com/api/ems/"
 
 const initUrl = baseUrl + "everything?q=apple" + apiKey;
 
-const countries = [
+const countries = [ 
     {
         'name': 'India',
         'code': 'in',
